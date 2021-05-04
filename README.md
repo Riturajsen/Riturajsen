@@ -6,6 +6,7 @@
 <h3 align="center">Software Engineer | PHP DEV | Good With Frontend</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/the_harvey_specter_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pulakthecooldud/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Rituraj Sen" height="30" width="40" /></a>
  <a href = "mailto:pulaksingh1998@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
